@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Manager>
+    <Id>1000</Id>
+    <Name>asd</Name>
+    <Salary>1</Salary>
+    <Level>1</Level>
+  </Manager>
+</ArrayOfManager>

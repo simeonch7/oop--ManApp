@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManager xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Manager>
+    <Id>1000</Id>
+    <Name>Simeon Chakarov</Name>
+    <Salary>1000</Salary>
+    <Level>2</Level>
+  </Manager>
+  <Manager>
+    <Id>1003</Id>
+    <Name>Simeon Chakarov</Name>
+    <Salary>1000</Salary>
+    <Level>9</Level>
+  </Manager>
+</ArrayOfManager>

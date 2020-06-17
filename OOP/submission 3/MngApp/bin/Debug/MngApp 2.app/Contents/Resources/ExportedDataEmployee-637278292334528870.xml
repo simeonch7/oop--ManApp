@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Employee>
+    <Id>1007</Id>
+    <Name>asd</Name>
+    <Salary>1</Salary>
+  </Employee>
+</ArrayOfEmployee>
